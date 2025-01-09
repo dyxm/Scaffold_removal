@@ -5,7 +5,9 @@
 ## Introduction
 ![image](https://github.com/user-attachments/assets/60bc8345-a4a0-453f-b45e-084bed371d1d)
 
+<p align="justify">
 With increasing computer vision (CV) applications in automated construction management, the visual occlusion issue caused by crisscrossing, wide-coverage, and immovable scaffolds has become one of the most challenging. This study proposes a novel deep learning-based two-step method combining pixel-level semantic segmentation and contextual image inpainting to remove scaffolds visually and restore the occluded visual information. A low-cost data synthesis method using only unlabeled data has also been developed to alleviate the shortage of labeled data for deep neural network (DNN) training. Experiments on the synthesized test data show that the proposed method achieves performances of 92% mean intersection over union (MIoU) for scaffold segmentation and over 82% structural similarity (SSIM) for scene restoration after removing scaffolds. This research set a precedent for addressing the visual occlusion issue of scaffolds, and the proposed method is verified in real-world cases that it helps existing CV models perform better in scaffolding scenarios.
+</p>
 
 **Keywords**: Construction management, Computer vision, Deep neural network, Scaffold occlusion, Semantic segmentation, Image inpainting
 
