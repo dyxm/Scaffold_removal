@@ -18,8 +18,6 @@ With increasing computer vision (CV) applications in automated construction mana
 </div>
 <br>
 
-
-
 The dataset can be accessed:
 - at the [TeraBox](https://terabox.com/s/1Hx4K6hRUuoYf596lOZDOGw).
 - or, at the [Baidu Netdisk](https://pan.baidu.com/s/1WjF_Mijy0A5f9y6KqXDBbQ) using the code: **id1q**
