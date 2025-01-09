@@ -11,7 +11,18 @@ With increasing computer vision (CV) applications in automated construction mana
 
 
 ## Dataset
-Coming soon ...
+<div align="center">
+      <img src="https://github.com/user-attachments/assets/842f9070-6462-4566-8cd4-efe22e048412" width=300 alt="scaffold_png" />
+      <img src="https://github.com/user-attachments/assets/7e3ef9af-a6b9-4901-8d06-dccb15b6a2a4" width=300 alt="construction-activities" />
+      <img src="https://github.com/user-attachments/assets/8a85ad42-7d75-4f2d-8c46-9c4e7d40c581" width=300 alt="scaffolding-activities" />
+</div>
+<br>
+
+
+
+The dataset can be accessed:
+- at the [TeraBox](https://terabox.com/s/1Hx4K6hRUuoYf596lOZDOGw).
+- or, at the [Baidu Netdisk](https://pan.baidu.com/s/1WjF_Mijy0A5f9y6KqXDBbQ) using the code: **id1q**
 
 
 ## Citation
