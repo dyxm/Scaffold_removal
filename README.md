@@ -29,14 +29,14 @@ The dataset can be accessed:
 Please cite our work if you find the dataset useful.
 ```
 @article{DING2025109983,
-      title = {Removing visual occlusion of construction scaffolds via a two-step method combining semantic segmentation and image inpainting},
-      journal = {Engineering Applications of Artificial Intelligence},
-      volume = {142},
-      pages = {109983},
-      year = {2025},
-      issn = {0952-1976},
-      doi = {https://doi.org/10.1016/j.engappai.2024.109983},
-      url = {https://www.sciencedirect.com/science/article/pii/S0952197624021420},
-      author = {Yuexiong Ding and Muyang Liu and Ming Zhang and Xiaowei Luo},
+         title = {Removing visual occlusion of construction scaffolds via a two-step method combining semantic segmentation and image inpainting},
+         journal = {Engineering Applications of Artificial Intelligence},
+         volume = {142},
+         pages = {109983},
+         year = {2025},
+         issn = {0952-1976},
+         doi = {https://doi.org/10.1016/j.engappai.2024.109983},
+         url = {https://www.sciencedirect.com/science/article/pii/S0952197624021420},
+         author = {Yuexiong Ding and Muyang Liu and Ming Zhang and Xiaowei Luo},
 }
 ```
