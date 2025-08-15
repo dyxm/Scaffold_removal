@@ -28,6 +28,18 @@ The dataset can be accessed:
 ## Citation
 Please cite our work if you find the dataset useful.
 ```
+@CONFERENCE{Ding2023,
+	author = {Ding, Yuexiong and Liu, Muyang and Luo, Xiaowei},
+	title = {Scene restoration from scaffold occlusion using deep learning-based methods},
+	year = {2023},
+	journal = {30th EG-ICE: International Conference on Intelligent Computing in Engineering 2023},
+	url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207170097&partnerID=40&md5=00871298ce6c28854213a4f2471660e4},
+	type = {Conference paper},
+	publication_stage = {Final},
+	source = {Scopus},
+	note = {Cited by: 0}
+}
+
 @article{DING2025109983,
       title = {Removing visual occlusion of construction scaffolds via a two-step method combining semantic segmentation and image inpainting},
       journal = {Engineering Applications of Artificial Intelligence},
